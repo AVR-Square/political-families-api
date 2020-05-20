@@ -27,9 +27,6 @@
     "eslint-plugin-import": "^2.20.2",
     "husky": "^4.2.5"
   },
-  "dependencies": {
-    "axios": "^0.19.2"
-  },
   "husky": {
     "hooks": {
       "pre-commit": "npm run lint"
